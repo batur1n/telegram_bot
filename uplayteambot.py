@@ -9,7 +9,7 @@ import time
 import urllib
 import random
 
-TOKEN = "299403003:AAFt3wfrfdPHorltacSJaS_NgtQwB1cbUyU"
+TOKEN = "###########################################"
 URL = "https://api.telegram.org/bot{}/".format(TOKEN)
 HEALTH_KEYWORDS = ["feel bad", "sick", "feeling bad", "home today", "stay at home", "off work", "off today", "cold", "temperature", "not feeling good", " ill ", " ill", "illness", "sickness"]
 LATE_KEYWORDS = ["late", "traffic", "traffic jam", "later", "overslept"]
